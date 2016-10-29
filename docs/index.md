@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Welcome
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+We are happy you are visiting our site.
 
 ## Commands
 
@@ -11,7 +11,4 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Hello World!
